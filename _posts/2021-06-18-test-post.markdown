@@ -4,7 +4,7 @@ title: "Test post"
 img: canyon.jpg # Add image post (optional)
 date: 2021-06-18 12:54:00 +0300
 description: ....
-tag: [Travel, Texas, Canyon]
+tag: [Горы, Море, Крым]
 ---
 ...
 
